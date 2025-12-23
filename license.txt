@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bunny-Robot-R34
+* source:	https://sketchfab.com/3d-models/bunny-robot-r34-a6e8a887408548c98de0504bc8b8ec48
+* author:	vsevideovalera (https://sketchfab.com/White3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bunny-Robot-R34" (https://sketchfab.com/3d-models/bunny-robot-r34-a6e8a887408548c98de0504bc8b8ec48) by vsevideovalera (https://sketchfab.com/White3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
